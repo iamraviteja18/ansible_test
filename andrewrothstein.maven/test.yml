@@ -1,0 +1,4 @@
+---
+- import_playbook: test-install.yml
+- import_playbook: test-configure.yml
+
